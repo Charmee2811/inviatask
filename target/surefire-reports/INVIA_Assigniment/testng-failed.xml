@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [INVIA_Assigniment]">
+  <test name="TaskTest(failed)">
+    <classes>
+      <class name="task.testCases">
+        <methods>
+          <include name="preAction"/>
+          <include name="TC1"/>
+        </methods>
+      </class> <!-- task.testCases -->
+    </classes>
+  </test> <!-- TaskTest(failed) -->
+</suite> <!-- Failed suite [INVIA_Assigniment] -->
