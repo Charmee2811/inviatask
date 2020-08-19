@@ -1,6 +1,10 @@
 # InviaTask
 Take the pull
-Import as Maven project
-and Run testng.xml --> run as testng suit 
-OR
-maven clean install
+run npm install (to install all node modules from package.json)
+run npm protractor
+
+
+PreRequisites
+Node js installed
+protractor installed
+chrome browser
